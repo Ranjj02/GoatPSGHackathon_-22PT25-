@@ -19,7 +19,7 @@ System Setup
 
 Make sure to run the below in the cd/powershell/bash after cloning this repository.
 
-1.python -m venv venv
+1.python -m venv venv\n
 2.venv\Scripts\activate
 3.pip install -r requirements.txt
 
