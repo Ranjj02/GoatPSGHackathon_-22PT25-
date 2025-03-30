@@ -11,19 +11,19 @@ A PyGame-based simulation for autonomous robot fleet coordination with traffic m
 ![image](https://github.com/user-attachments/assets/063899aa-5ba6-4d69-a57d-2c94c85ff43f)
 
 
-THE DEMO VIDEO CAN BE ACCESSED IN THE BELOW LINK
+THE DEMO VIDEO CAN BE ACCESSED IN THE BELOW LINK      
 https://www.loom.com/share/def954e32aca493e9bcf3c439af3603d?sid=378dc22b-d2d0-4692-9175-bbdd497e64cb
 
 
-System Setup 
+System Setup     
 
 Make sure to run the below in the cd/powershell/bash after cloning this repository.
 
-1.python -m venv venv\n
-2.venv\Scripts\activate\n
-3.pip install -r requirements.txt
+1.python -m venv venv   
+2.venv\Scripts\activate   
+3.pip install -r requirements.txt   
 
-Running the system:
+Running the system:    
 1.python src/main.py
 
 Folder
